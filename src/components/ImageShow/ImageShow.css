@@ -1,0 +1,8 @@
+.image{
+    display: flex;
+    margin: 20px;
+    justify-content: space-around;
+    border: 1px solid green;
+    height: 30vh;
+    padding: 20px;
+  }
